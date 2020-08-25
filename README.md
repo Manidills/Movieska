@@ -1,4 +1,4 @@
-# React Movie rmdb
+# MOVIEKA
 [Link to App](http://movieka.netlify.com/)
 
 
